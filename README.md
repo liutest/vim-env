@@ -1,8 +1,8 @@
 ### install vim with lua
-``
+```
 brew uninstall vim
 brew install vim --with-lua
-``
+```
 
 ### use vundle
 ```
