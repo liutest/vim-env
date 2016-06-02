@@ -16,6 +16,6 @@ cp vimrc ~/.vimrc
 
 # PluginInstall
 ```
-vim  ~/.vimrx
+vim  ~/.vimrc
 :PluginInstall
 ```
